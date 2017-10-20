@@ -1,0 +1,129 @@
+Tulio@TULIO C:\Users\Tulio
+> cd C:\NODEJS\stewan-angular
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/header
+  create src/app/components/header/header.component.html (25 bytes)
+  create src/app/components/header/header.component.spec.ts (628 bytes)
+  create src/app/components/header/header.component.ts (270 bytes)
+  create src/app/components/header/header.component.sass (0 bytes)
+  update src/app/app.module.ts (407 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/menu
+  create src/app/components/menu/menu.component.html (23 bytes)
+  create src/app/components/menu/menu.component.spec.ts (614 bytes)
+  create src/app/components/menu/menu.component.ts (262 bytes)
+  create src/app/components/menu/menu.component.sass (0 bytes)
+  update src/app/app.module.ts (492 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/logo
+  create src/app/components/logo/logo.component.html (23 bytes)
+  create src/app/components/logo/logo.component.spec.ts (614 bytes)
+  create src/app/components/logo/logo.component.ts (262 bytes)
+  create src/app/components/logo/logo.component.sass (0 bytes)
+  update src/app/app.module.ts (577 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/searchbar
+  create src/app/components/searchbar/searchbar.component.html (28 bytes)
+  create src/app/components/searchbar/searchbar.component.spec.ts (649 bytes)
+  create src/app/components/searchbar/searchbar.component.ts (282 bytes)
+  create src/app/components/searchbar/searchbar.component.sass (0 bytes)
+  update src/app/app.module.ts (682 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/cartbar
+  create src/app/components/cartbar/cartbar.component.html (26 bytes)
+  create src/app/components/cartbar/cartbar.component.spec.ts (635 bytes)
+  create src/app/components/cartbar/cartbar.component.ts (274 bytes)
+  create src/app/components/cartbar/cartbar.component.sass (0 bytes)
+  update src/app/app.module.ts (779 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/banner
+  create src/app/components/banner/banner.component.html (25 bytes)
+  create src/app/components/banner/banner.component.spec.ts (628 bytes)
+  create src/app/components/banner/banner.component.ts (270 bytes)
+  create src/app/components/banner/banner.component.sass (0 bytes)
+  update src/app/app.module.ts (872 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/product-list
+  create src/app/components/product-list/product-list.component.html (31 bytes)
+  create src/app/components/product-list/product-list.component.spec.ts (664 bytes)
+  create src/app/components/product-list/product-list.component.ts (293 bytes)
+  create src/app/components/product-list/product-list.component.sass (0 bytes)
+  update src/app/app.module.ts (987 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/product-card
+  create src/app/components/product-card/product-card.component.html (31 bytes)
+  create src/app/components/product-card/product-card.component.spec.ts (664 bytes)
+  create src/app/components/product-card/product-card.component.ts (293 bytes)
+  create src/app/components/product-card/product-card.component.sass (0 bytes)
+  update src/app/app.module.ts (1102 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c components/footer
+  create src/app/components/footer/footer.component.html (25 bytes)
+  create src/app/components/footer/footer.component.spec.ts (628 bytes)
+  create src/app/components/footer/footer.component.ts (270 bytes)
+  create src/app/components/footer/footer.component.sass (0 bytes)
+  update src/app/app.module.ts (1195 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c pages/home-page
+  create src/app/pages/home-page/home-page.component.html (28 bytes)
+  create src/app/pages/home-page/home-page.component.spec.ts (643 bytes)
+  create src/app/pages/home-page/home-page.component.ts (281 bytes)
+  create src/app/pages/home-page/home-page.component.sass (0 bytes)
+  update src/app/app.module.ts (1293 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c pages/products-page
+  create src/app/pages/products-page/products-page.component.html (32 bytes)
+  create src/app/pages/products-page/products-page.component.spec.ts (671 bytes)
+  create src/app/pages/products-page/products-page.component.ts (297 bytes)
+  create src/app/pages/products-page/products-page.component.sass (0 bytes)
+  update src/app/app.module.ts (1407 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c pages/404-page
+  create src/app/pages/404-page/404-page.component.html (27 bytes)
+  create src/app/pages/404-page/404-page.component.spec.ts (636 bytes)
+  create src/app/pages/404-page/404-page.component.ts (277 bytes)
+  create src/app/pages/404-page/404-page.component.sass (0 bytes)
+  update src/app/app.module.ts (1501 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c pages/product-page
+  create src/app/pages/product-page/product-page.component.html (31 bytes)
+  create src/app/pages/product-page/product-page.component.spec.ts (664 bytes)
+  create src/app/pages/product-page/product-page.component.ts (293 bytes)
+  create src/app/pages/product-page/product-page.component.sass (0 bytes)
+  update src/app/app.module.ts (1607 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g s providers/products
+  create src/app/providers/products.service.spec.ts (386 bytes)
+  create src/app/providers/products.service.ts (114 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g s providers/cart
+  create src/app/providers/cart.service.spec.ts (362 bytes)
+  create src/app/providers/cart.service.ts (110 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g s providers/menu
+  create src/app/providers/menu.service.spec.ts (362 bytes)
+  create src/app/providers/menu.service.ts (110 bytes)
+
+Tulio@TULIO C:\NODEJS\stewan-angular
+> ng g c pages/error-404-page
+  create src/app/pages/error-404-page/error-404-page.component.html (33 bytes)
+  create src/app/pages/error-404-page/error-404-page.component.spec.ts (672 bytes)
+  create src/app/pages/error-404-page/error-404-page.component.ts (300 bytes)
+  create src/app/pages/error-404-page/error-404-page.component.sass (0 bytes)
+  update src/app/app.module.ts (1633 bytes)
