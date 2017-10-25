@@ -1,3 +1,29 @@
-<p>
-  header works!
-</p>
+<nav class="navbar is-transparent">
+
+    <div class="nav-left">
+
+      <div class="navbar-brand">
+        <div class="navbar-burger burger" data-target="navMenuTransparentExample">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+
+      <app-logo></app-logo>
+
+    </div>
+  
+    <div class="nav-center">
+      b
+    </div>
+
+    <div class="nav-right">
+      <a class="nav-item" (click)="showSearch()">
+        <i class="fa fa-search"></i>        
+      </a>
+      <app-cartbar></app-cartbar>
+
+    </div>
+
+</nav>
